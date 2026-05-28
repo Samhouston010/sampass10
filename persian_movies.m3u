@@ -1,53 +1,23 @@
 #EXTM3U
-# ═══════════════════════════════════════════════════════════════════════════
-# 🎬 فیلم‌های ایرانی رایگان از archive.org
-# همه فیلم‌ها قانونی و public domain هستند
-# ═══════════════════════════════════════════════════════════════════════════
-
-# ─── فیلم‌های معاصر ایرانی (مجموعه Pasargad) ────────────────────────────
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",ابد و یک روز (720p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",ابد و یک روز (720p)
 https://archive.org/download/Pasargad-Movies/Abado%20Yek%20Rouz%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",ابد و یک روز (1080p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",ابد و یک روز (1080p)
 https://archive.org/download/Pasargad-Movies/Abado%20Yek%20Rouz%201080p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",دراکولا (720p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",دراکولا (720p)
 https://archive.org/download/Pasargad-Movies/Dracula%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",دراکولا (1080p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",دراکولا (1080p)
 https://archive.org/download/Pasargad-Movies/Dracula%201080p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",فروشنده - اصغر فرهادی (720p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",فروشنده - اصغر فرهادی (720p)
 https://archive.org/download/Pasargad-Movies/Foroushandeh%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",فروشنده - اصغر فرهادی (1080p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",فروشنده - اصغر فرهادی (1080p)
 https://archive.org/download/Pasargad-Movies/Foroushandeh%201080p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",مرگ ماهی (720p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",مرگ ماهی (720p)
 https://archive.org/download/Pasargad-Movies/Marge%20Mahi%20720p.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="🎭 فیلم ایرانی - معاصر",مرگ ماهی (1080p)
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/Pasargad-Movies" group-title="فیلم ایرانی",مرگ ماهی (1080p)
 https://archive.org/download/Pasargad-Movies/Marge%20Mahi%201080p.mp4
-
-# ─── فیلم‌های هنری ──────────────────────────────────────────────────────
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/damilos_Nf" group-title="🎨 فیلم ایرانی - هنری",نگار
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/damilos_Nf" group-title="فیلم ایرانی",نگار
 https://archive.org/download/damilos_Nf/damilos_Nf.mp4
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/IranianMovieAsbHeyvaneNajibiAst" group-title="🎨 فیلم ایرانی - هنری",اسب حیوان نجیبی است
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/IranianMovieAsbHeyvaneNajibiAst" group-title="فیلم ایرانی",اسب حیوان نجیبی است
 https://archive.org/download/IranianMovieAsbHeyvaneNajibiAst/IranianMovieAsbHeyvaneNajibiAst.mp4
-
-# ─── فیلم‌های دینی و معنوی ──────────────────────────────────────────────
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/jesus-film-farsi-western-language" group-title="🕌 فیلم - دینی",فیلم عیسی (دوبله فارسی)
-https://archive.org/download/jesus-film-farsi-western-language/JESUS%20Film%20Farsi%20Western%20Language.mp4
-
-# ─── مستند ──────────────────────────────────────────────────────────────
-
-#EXTINF:-1 tvg-logo="https://archive.org/services/img/enghelab-cinema-dar-iran" group-title="📹 مستند ایرانی",انقلاب سینما در ایران
+#EXTINF:-1 tvg-logo="https://archive.org/services/img/enghelab-cinema-dar-iran" group-title="مستند",انقلاب سینما در ایران
 https://archive.org/download/enghelab-cinema-dar-iran/enghelab-cinema-dar-iran.mp4
-
-# ─── راهنما ─────────────────────────────────────────────────────────────
-# اگر فیلمی پخش نشد، در پلیر روی فیلم دیگری بزن.
-# Pasargad-Movies پایدارترین مجموعه است.
