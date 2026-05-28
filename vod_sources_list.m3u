@@ -1,0 +1,110 @@
+#EXTM3U
+# ═══════════════════════════════════════════════════════════════════════════
+# 🎬 لیست کامل منابع رایگان فیلم و سریال (VOD + Live)
+# همه منابع از پروژه‌های اوپن‌سورس گیت‌هاب — خودکار به‌روز می‌شوند
+#
+# ⚠️ نکته: این فایل خودش لیست لینک‌هاست نه فیلم‌ها.
+# هر بخش زیر را در پلیرت به‌عنوان یک Playlist جداگانه اضافه کن.
+# ═══════════════════════════════════════════════════════════════════════════
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  🎯 منبع شماره ۱: jromero88 VOD — بهترین گزینه برای شروع              ║
+# ║  هزاران فیلم با لینک مستقیم MP4 و پوستر، گروه‌بندی‌شده                 ║
+# ║                                                                          ║
+# ║  لینک اضافه‌کن در پلیر:                                                 ║
+# ║  https://raw.githubusercontent.com/jromero88/iptv/master/VOD.m3u       ║
+# ╚════════════════════════════════════════════════════════════════════════╝
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  🎯 منبع شماره ۲: BuddyChewChew — Tubi, Pluto, Roku, Plex، PBS         ║
+# ║  این پلیلیست‌ها خودکار هر روز با لینک‌های تازه به‌روز می‌شوند           ║
+# ║  بهترین برای فیلم‌های ۲۰۱۰-۲۰۲۰ آمریکایی                              ║
+# ║                                                                          ║
+# ║  Tubi TV (هزاران فیلم هالیوود):                                        ║
+# ║  https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
+# ║                                                                          ║
+# ║  Pluto TV (همه کانال‌های آمریکا):                                       ║
+# ║  https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u
+# ║                                                                          ║
+# ║  Roku Channel:                                                          ║
+# ║  https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/roku_all.m3u
+# ║                                                                          ║
+# ║  Plex TV Free:                                                          ║
+# ║  https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_all.m3u
+# ╚════════════════════════════════════════════════════════════════════════╝
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  🎯 منبع شماره ۳: matthuisman — معروف‌ترین منبع برای FAST channels    ║
+# ║  Samsung TV Plus, Pluto, Plex، Stirr، PBS، Roku                       ║
+# ║                                                                          ║
+# ║  Pluto TV (همه کشورها):                                                ║
+# ║  https://i.mjh.nz/PlutoTV/all.m3u8                                     ║
+# ║                                                                          ║
+# ║  Samsung TV Plus:                                                       ║
+# ║  https://i.mjh.nz/SamsungTVPlus/all.m3u8                                ║
+# ║                                                                          ║
+# ║  Plex Free:                                                             ║
+# ║  https://i.mjh.nz/Plex/all.m3u8                                         ║
+# ║                                                                          ║
+# ║  Roku:                                                                  ║
+# ║  https://i.mjh.nz/Roku/all.m3u8                                         ║
+# ║                                                                          ║
+# ║  Stirr:                                                                 ║
+# ║  https://i.mjh.nz/Stirr/all.m3u8                                        ║
+# ║                                                                          ║
+# ║  PBS:                                                                   ║
+# ║  https://i.mjh.nz/PBS/.all.m3u8                                         ║
+# ╚════════════════════════════════════════════════════════════════════════╝
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  🎯 منبع شماره ۴: m3u8-xtream — فیلم‌های پرطرفدار TMDB                 ║
+# ║  فیلم‌های trending روزانه + برترین‌های همه‌ی دوران‌ها                  ║
+# ║                                                                          ║
+# ║  Trending Movies (روزانه):                                              ║
+# ║  https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-movies.m3u
+# ║                                                                          ║
+# ║  Top Movies of all time:                                                ║
+# ║  https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/top-movies.m3u
+# ║                                                                          ║
+# ║  Trending Series:                                                       ║
+# ║  https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/trending-series.m3u
+# ╚════════════════════════════════════════════════════════════════════════╝
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  🎯 منبع شماره ۵: Free-TV/IPTV — بزرگترین مجموعه ۶۰+ کشور             ║
+# ║  هزاران کانال آمریکا، اروپا، آسیا با EPG داخلی                        ║
+# ║                                                                          ║
+# ║  لیست کامل:                                                             ║
+# ║  https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8   ║
+# ╚════════════════════════════════════════════════════════════════════════╝
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  🎯 منبع شماره ۶ (پیشرفته): gogetta69/TMDB-To-VOD-Playlist            ║
+# ║  این یک پروژه با کاتالوگ کامل مثل Netflix می‌سازد!                    ║
+# ║  پوستر، توضیح، سال، رتبه IMDB، همه چیز.                                ║
+# ║  ولی نیاز به نصب روی کامپیوتر دارد (Docker یا Python)                 ║
+# ║                                                                          ║
+# ║  راهنما در:                                                              ║
+# ║  https://github.com/gogetta69/TMDB-To-VOD-Playlist                     ║
+# ╚════════════════════════════════════════════════════════════════════════╝
+
+
+# ╔════════════════════════════════════════════════════════════════════════╗
+# ║  💡 پیشنهاد عملی برای شروع                                              ║
+# ║                                                                          ║
+# ║  ۱) اول این یکی را اضافه کن (بهترین برای فیلم‌های مدرن):              ║
+# ║     https://raw.githubusercontent.com/BuddyChewChew/                    ║
+# ║       app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u         ║
+# ║                                                                          ║
+# ║  ۲) بعد این را (VOD اختصاصی):                                          ║
+# ║     https://raw.githubusercontent.com/jromero88/iptv/master/VOD.m3u    ║
+# ║                                                                          ║
+# ║  این دو تا برای شروع کافی است — اگر چیز بیشتری خواستی،                ║
+# ║  از بقیه منابع بالا اضافه کن.                                          ║
+# ╚════════════════════════════════════════════════════════════════════════╝
