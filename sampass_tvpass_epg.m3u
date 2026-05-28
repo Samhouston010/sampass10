@@ -433,7 +433,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://av.alarabiya.net/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/320px-BBC_News_2019.svg.png" group-title="Live" tvg-name="BBC News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="bbc-news-north-america-hd"  tvg-logo="bbc-news-north-america-hd" group-title="TVPass" tvg-name="BBC News North America HD",BBC News North America HD
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="bbc-news-north-america-hd"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcnews.default.svg" tvg-chno="1001" group-title="TVPass" tvg-name="BBC News North America HD",BBC News North America HD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 #EXTINF:-1  group-title="Live" tvg-name="BBC-Earth",BBC-Earth
 https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
@@ -453,297 +453,297 @@ https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="Live" tvg-name="Cowboy-Movie-Channel",Cowboy-Movie-Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/index.m3u8
-#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca"  tvg-logo="fox-kttv-los-angeles-ca" group-title="TVPass" tvg-name="FOX (KTTV) Los Angeles",FOX (KTTV) Los Angeles
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fox-kttv-los-angeles-ca"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fox.default.svg" tvg-chno="1002" group-title="TVPass" tvg-name="FOX (KTTV) Los Angeles",FOX (KTTV) Los Angeles
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="fox-news-channel"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/320px-Fox_News_Channel_logo.svg.png" group-title="TVPass" tvg-name="Fox News",Fox News
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fox-news-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/foxnews.default.svg" tvg-chno="1003" group-title="TVPass" tvg-name="Fox News",Fox News
 https://tvpass.org/live/FoxNewsChannel/sd
-#EXTINF:-1 tvg-id="cnbc-us"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/320px-CNBC_logo.svg.png" group-title="TVPass" tvg-name="CNBC USA",CNBC USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cnbc-us"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cnbc.default.svg" tvg-chno="1004" group-title="TVPass" tvg-name="CNBC USA",CNBC USA
 https://tvpass.org/live/CNBC/sd
-#EXTINF:-1 tvg-id="cnn"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="TVPass" tvg-name="CNN US",CNN US
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cnn"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cnn.default.svg" tvg-chno="1005" group-title="TVPass" tvg-name="CNN US",CNN US
 https://tvpass.org/live/CNN/sd
-#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca"  tvg-logo="cbs-kcbs-los-angeles-ca" group-title="TVPass" tvg-name="CBS (KCBS) Los Angeles",CBS (KCBS) Los Angeles
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cbs-kcbs-los-angeles-ca"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbs.default.svg" tvg-chno="1006" group-title="TVPass" tvg-name="CBS (KCBS) Los Angeles",CBS (KCBS) Los Angeles
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="discovery-channel-eastern-feed"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Discovery_Channel_-_Logo_2019.svg/320px-Discovery_Channel_-_Logo_2019.svg.png" group-title="TVPass" tvg-name="Discovery Channel (US) Eastern Feed",Discovery Channel (US) Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="discovery-channel-eastern-feed"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/discovery.default.png" tvg-chno="1007" group-title="TVPass" tvg-name="Discovery Channel (US) Eastern Feed",Discovery Channel (US) Eastern Feed
 https://tvpass.org/live/DiscoveryChannelEast/sd
-#EXTINF:-1 tvg-id="discovery-family-channel"  tvg-logo="discovery-family-channel" group-title="TVPass" tvg-name="Discovery Family Channel",Discovery Family Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="discovery-family-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/discovery.default.png" tvg-chno="1008" group-title="TVPass" tvg-name="Discovery Family Channel",Discovery Family Channel
 https://tvpass.org/live/DiscoveryFamily/sd
-#EXTINF:-1 tvg-id="discovery-life-channel"  tvg-logo="discovery-life-channel" group-title="TVPass" tvg-name="Discovery Life Channel",Discovery Life Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="discovery-life-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/discoverylife.default.svg" tvg-chno="1009" group-title="TVPass" tvg-name="Discovery Life Channel",Discovery Life Channel
 https://tvpass.org/live/DiscoveryLife/sd
-#EXTINF:-1 tvg-id="science-channel"  tvg-logo="science" group-title="TVPass" tvg-name="Science",Science
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="science-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/science.default.svg" tvg-chno="1010" group-title="TVPass" tvg-name="Science",Science
 https://tvpass.org/live/Science/sd
-#EXTINF:-1 tvg-id="american-heroes-channel"  tvg-logo="american-heroes-channel" group-title="TVPass" tvg-name="American Heroes Channel",American Heroes Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="american-heroes-channel"  tvg-logo="american-heroes-channel" tvg-chno="1011" group-title="TVPass" tvg-name="American Heroes Channel",American Heroes Channel
 https://tvpass.org/live/AmericanHeroesChannel/sd
-#EXTINF:-1 tvg-id="bbc-america-east"  tvg-logo="bbc-america-east" group-title="TVPass" tvg-name="BBC America East",BBC America East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="bbc-america-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcamerica.default.svg" tvg-chno="1012" group-title="TVPass" tvg-name="BBC America East",BBC America East
 https://tvpass.org/live/BBCAmericaEast/sd
-#EXTINF:-1 tvg-id="bet-eastern-feed"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BET_logo_2012.svg/320px-BET_logo_2012.svg.png" group-title="TVPass" tvg-name="BET Eastern Feed",BET Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="bet-eastern-feed"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bet.default.svg" tvg-chno="1013" group-title="TVPass" tvg-name="BET Eastern Feed",BET Eastern Feed
 https://tvpass.org/live/BETEast/sd
-#EXTINF:-1 tvg-id="bet-her"  tvg-logo="bet-her" group-title="TVPass" tvg-name="BET Her",BET Her
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="bet-her"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bether.default.svg" tvg-chno="1014" group-title="TVPass" tvg-name="BET Her",BET Her
 https://tvpass.org/live/BETHerEast/sd
-#EXTINF:-1 tvg-id="big-ten-network"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Big_Ten_Network.svg/320px-Big_Ten_Network.svg.png" group-title="TVPass" tvg-name="Big Ten Network",Big Ten Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="big-ten-network"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Big_Ten_Network.svg/320px-Big_Ten_Network.svg.png" tvg-chno="1015" group-title="TVPass" tvg-name="Big Ten Network",Big Ten Network
 https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id="bloomberg-tv-usa"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bloomberg_logo.svg/320px-Bloomberg_logo.svg.png" group-title="TVPass" tvg-name="Bloomberg TV USA",Bloomberg TV USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="bloomberg-tv-usa"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bloomberg.default.svg" tvg-chno="1016" group-title="TVPass" tvg-name="Bloomberg TV USA",Bloomberg TV USA
 https://tvpass.org/live/BloombergTV/sd
-#EXTINF:-1 tvg-id="boomerang"  tvg-logo="boomerang" group-title="TVPass" tvg-name="Boomerang",Boomerang
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="boomerang"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/boomerang.default.svg" tvg-chno="1017" group-title="TVPass" tvg-name="Boomerang",Boomerang
 https://tvpass.org/live/Boomerang/sd
-#EXTINF:-1 tvg-id="bravo-usa-eastern-feed"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bravo_Logo.svg/320px-Bravo_Logo.svg.png" group-title="TVPass" tvg-name="Bravo USA Eastern Feed",Bravo USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="bravo-usa-eastern-feed"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bravo.default.svg" tvg-chno="1018" group-title="TVPass" tvg-name="Bravo USA Eastern Feed",Bravo USA Eastern Feed
 https://tvpass.org/live/BravoEast/sd
-#EXTINF:-1 tvg-id="cspan"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/C-SPAN-Logo.svg/320px-C-SPAN-Logo.svg.png" group-title="TVPass" tvg-name="C-SPAN",C-SPAN
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cspan"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cspan.default.svg" tvg-chno="1019" group-title="TVPass" tvg-name="C-SPAN",C-SPAN
 https://tvpass.org/live/CSPAN/sd
-#EXTINF:-1 tvg-id="cspan-2"  tvg-logo="cspan-2" group-title="TVPass" tvg-name="C-SPAN 2",C-SPAN 2
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cspan-2"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cspan2.default.png" tvg-chno="1020" group-title="TVPass" tvg-name="C-SPAN 2",C-SPAN 2
 https://tvpass.org/live/CSPAN2/sd
-#EXTINF:-1 tvg-id="cartoon-network-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" group-title="TVPass" tvg-name="Cartoon Network USA Eastern Feed",Cartoon Network USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cartoon-network-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cartoonnetwork.default.svg" tvg-chno="1021" group-title="TVPass" tvg-name="Cartoon Network USA Eastern Feed",Cartoon Network USA Eastern Feed
 https://tvpass.org/live/CartoonNetworkEast/sd
-#EXTINF:-1 tvg-id="cbs-sports-network-usa"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/CBS_Sports_Network.svg/320px-CBS_Sports_Network.svg.png" group-title="TVPass" tvg-name="CBS Sports Network USA",CBS Sports Network USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cbs-sports-network-usa"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbs.default.svg" tvg-chno="1022" group-title="TVPass" tvg-name="CBS Sports Network USA",CBS Sports Network USA
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id="chicago-sports-network"  tvg-logo="chicago-sports-network" group-title="TVPass" tvg-name="Chicago Sports Network",Chicago Sports Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="chicago-sports-network"  tvg-logo="chicago-sports-network" tvg-chno="1023" group-title="TVPass" tvg-name="Chicago Sports Network",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/sd
-#EXTINF:-1 tvg-id="cinemax-east"  tvg-logo="cinemax-eastern-feed" group-title="TVPass" tvg-name="Cinemax Eastern Feed",Cinemax Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cinemax-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cinemax.default.svg" tvg-chno="1024" group-title="TVPass" tvg-name="Cinemax Eastern Feed",Cinemax Eastern Feed
 https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 tvg-id="cmt-east"  tvg-logo="cmt-us-eastern-feed" group-title="TVPass" tvg-name="CMT US Eastern Feed",CMT US Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cmt-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cmtv.default.svg" tvg-chno="1025" group-title="TVPass" tvg-name="CMT US Eastern Feed",CMT US Eastern Feed
 https://tvpass.org/live/CMTEast/sd
-#EXTINF:-1 tvg-id="comedy-central-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Comedy_Central_2011_Logo.svg/320px-Comedy_Central_2011_Logo.svg.png" group-title="TVPass" tvg-name="Comedy Central (US) Eastern Feed",Comedy Central (US) Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="comedy-central-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/comedycentral.default.svg" tvg-chno="1026" group-title="TVPass" tvg-name="Comedy Central (US) Eastern Feed",Comedy Central (US) Eastern Feed
 https://tvpass.org/live/ComedyCentralEast/sd
-#EXTINF:-1 tvg-id="crime-plus-investigation"  tvg-logo="crime-investigation-network-usa-hd" group-title="TVPass" tvg-name="Crime & Investigation Network USA HD",Crime & Investigation Network USA HD
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="crime-plus-investigation"  tvg-logo="crime-investigation-network-usa-hd" tvg-chno="1027" group-title="TVPass" tvg-name="Crime & Investigation Network USA HD",Crime & Investigation Network USA HD
 https://tvpass.org/live/CrimePlusInvestigation/sd
-#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca"  tvg-logo="cw-kfmbtv2-san-diego-ca" group-title="TVPass" tvg-name="CW (KFMB-TV2) San Diego",CW (KFMB-TV2) San Diego
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cw-kfmbtv2-san-diego-ca"  tvg-logo="cw-kfmbtv2-san-diego-ca" tvg-chno="1028" group-title="TVPass" tvg-name="CW (KFMB-TV2) San Diego",CW (KFMB-TV2) San Diego
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia"  tvg-logo="cw-wdcw-district-of-columbia" group-title="TVPass" tvg-name="CW (WDCW) District of Columbia",CW (WDCW) District of Columbia
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cw-wdcw-district-of-columbia"  tvg-logo="cw-wdcw-district-of-columbia" tvg-chno="1029" group-title="TVPass" tvg-name="CW (WDCW) District of Columbia",CW (WDCW) District of Columbia
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id="destination-america"  tvg-logo="destination-america" group-title="TVPass" tvg-name="Destination America",Destination America
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="destination-america"  tvg-logo="destination-america" tvg-chno="1030" group-title="TVPass" tvg-name="Destination America",Destination America
 https://tvpass.org/live/DestinationAmerica/sd
-#EXTINF:-1 tvg-id="disney-channel-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Channel_logo_2019.svg/320px-Disney_Channel_logo_2019.svg.png" group-title="TVPass" tvg-name="Disney Eastern Feed",Disney Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="disney-channel-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/disneychannel.default.svg" tvg-chno="1031" group-title="TVPass" tvg-name="Disney Eastern Feed",Disney Eastern Feed
 https://tvpass.org/live/DisneyChannelEast/sd
-#EXTINF:-1 tvg-id="disney-junior-east"  tvg-logo="disney-junior-usa-east" group-title="TVPass" tvg-name="Disney Junior USA East",Disney Junior USA East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="disney-junior-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/disneyjunior.default.png" tvg-chno="1032" group-title="TVPass" tvg-name="Disney Junior USA East",Disney Junior USA East
 https://tvpass.org/live/DisneyJuniorEast/sd
-#EXTINF:-1 tvg-id="disney-xd-east"  tvg-logo="disney-xd-usa-eastern-feed" group-title="TVPass" tvg-name="Disney XD USA Eastern Feed",Disney XD USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="disney-xd-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/disneyxd.default.svg" tvg-chno="1033" group-title="TVPass" tvg-name="Disney XD USA Eastern Feed",Disney XD USA Eastern Feed
 https://tvpass.org/live/DisneyXDEast/sd
-#EXTINF:-1 tvg-id="e-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/E%21_logo.svg/200px-E%21_logo.svg.png" group-title="TVPass" tvg-name="E! Entertainment USA Eastern Feed",E! Entertainment USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="e-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/eentertainment.default.png" tvg-chno="1034" group-title="TVPass" tvg-name="E! Entertainment USA Eastern Feed",E! Entertainment USA Eastern Feed
 https://tvpass.org/live/EEast/sd
-#EXTINF:-1 tvg-id="espn"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" group-title="TVPass" tvg-name="ESPN",ESPN
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="espn"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/espn.default.svg" tvg-chno="1035" group-title="TVPass" tvg-name="ESPN",ESPN
 https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id="espn-deportes"  tvg-logo="espn-deportes" group-title="TVPass" tvg-name="ESPN Deportes",ESPN Deportes
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="espn-deportes"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/espn.default.svg" tvg-chno="1036" group-title="TVPass" tvg-name="ESPN Deportes",ESPN Deportes
 https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-id="esp-news"  tvg-logo="espn-news" group-title="TVPass" tvg-name="ESPN News",ESPN News
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="esp-news"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/espnnews.default.svg" tvg-chno="1037" group-title="TVPass" tvg-name="ESPN News",ESPN News
 https://tvpass.org/live/ESPNews/sd
-#EXTINF:-1 tvg-id="espnu"  tvg-logo="espn-u" group-title="TVPass" tvg-name="ESPN U",ESPN U
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="espnu"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/espnu.default.svg" tvg-chno="1038" group-title="TVPass" tvg-name="ESPN U",ESPN U
 https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id="espn2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" group-title="TVPass" tvg-name="ESPN2",ESPN2
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="espn2"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/espn2.default.svg" tvg-chno="1039" group-title="TVPass" tvg-name="ESPN2",ESPN2
 https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id="food-network-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Food_Network_Logo.svg/320px-Food_Network_Logo.svg.png" group-title="TVPass" tvg-name="Food Network USA Eastern Feed",Food Network USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="food-network-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/foodnetwork.default.svg" tvg-chno="1040" group-title="TVPass" tvg-name="Food Network USA Eastern Feed",Food Network USA Eastern Feed
 https://tvpass.org/live/FoodNetworkEast/sd
-#EXTINF:-1 tvg-id="fox-business"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fox_Business_Network_logo.svg/320px-Fox_Business_Network_logo.svg.png" group-title="TVPass" tvg-name="Fox Business",Fox Business
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fox-business"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/foxbusiness.default.svg" tvg-chno="1041" group-title="TVPass" tvg-name="Fox Business",Fox Business
 https://tvpass.org/live/FoxBusiness/sd
-#EXTINF:-1 tvg-id="fox-sports1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fox_Sports_1_logo.svg/320px-Fox_Sports_1_logo.svg.png" group-title="TVPass" tvg-name="Fox Sports 1",Fox Sports 1
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fox-sports1"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/foxsports1.default.svg" tvg-chno="1042" group-title="TVPass" tvg-name="Fox Sports 1",Fox Sports 1
 https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id="fox-sports2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fox_Sports_2_logo.svg/320px-Fox_Sports_2_logo.svg.png" group-title="TVPass" tvg-name="Fox Sports 2",Fox Sports 2
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fox-sports2"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/foxsports2.default.svg" tvg-chno="1043" group-title="TVPass" tvg-name="Fox Sports 2",Fox Sports 2
 https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-id="freeform-east"  tvg-logo="freeform-east-feed" group-title="TVPass" tvg-name="Freeform East Feed",Freeform East Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="freeform-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/freeform.default.svg" tvg-chno="1044" group-title="TVPass" tvg-name="Freeform East Feed",Freeform East Feed
 https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="fuse-east"  tvg-logo="fuse-tv-eastern-feed" group-title="TVPass" tvg-name="FUSE TV Eastern feed",FUSE TV Eastern feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fuse-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fuse.default.svg" tvg-chno="1045" group-title="TVPass" tvg-name="FUSE TV Eastern feed",FUSE TV Eastern feed
 https://tvpass.org/live/FuseEast/sd
-#EXTINF:-1 tvg-id="fx-movie-channel"  tvg-logo="fx-movie-channel" group-title="TVPass" tvg-name="FX Movie Channel",FX Movie Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fx-movie-channel"  tvg-logo="fx-movie-channel" tvg-chno="1046" group-title="TVPass" tvg-name="FX Movie Channel",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 tvg-id="fx-east"  tvg-logo="fx-networks-east-coast" group-title="TVPass" tvg-name="FX Networks East Coast",FX Networks East Coast
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fx-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fx.default.svg" tvg-chno="1047" group-title="TVPass" tvg-name="FX Networks East Coast",FX Networks East Coast
 https://tvpass.org/live/FXEast/sd
-#EXTINF:-1 tvg-id="fxx-east"  tvg-logo="fxx-usa-eastern" group-title="TVPass" tvg-name="FXX USA Eastern",FXX USA Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fxx-east"  tvg-logo="fxx-usa-eastern" tvg-chno="1048" group-title="TVPass" tvg-name="FXX USA Eastern",FXX USA Eastern
 https://tvpass.org/live/FXXEast/sd
-#EXTINF:-1 tvg-id="fyi-east"  tvg-logo="fyi-usa-eastern" group-title="TVPass" tvg-name="FYI USA Eastern",FYI USA Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fyi-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fyi.default.svg" tvg-chno="1049" group-title="TVPass" tvg-name="FYI USA Eastern",FYI USA Eastern
 https://tvpass.org/live/FYIEast/sd
-#EXTINF:-1 tvg-id="game-show-network-east"  tvg-logo="game-show-network-east" group-title="TVPass" tvg-name="Game Show Network East",Game Show Network East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="game-show-network-east"  tvg-logo="game-show-network-east" tvg-chno="1050" group-title="TVPass" tvg-name="Game Show Network East",Game Show Network East
 https://tvpass.org/live/game-show-network-east/sd
-#EXTINF:-1 tvg-id="golf-channel"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Golf_Channel_Logo.svg/320px-Golf_Channel_Logo.svg.png" group-title="TVPass" tvg-name="Golf Channel USA",Golf Channel USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="golf-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/golfchannel.default.svg" tvg-chno="1051" group-title="TVPass" tvg-name="Golf Channel USA",Golf Channel USA
 https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 tvg-id="hallmark-channel-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hallmark_Channel_Logo.svg/320px-Hallmark_Channel_Logo.svg.png" group-title="TVPass" tvg-name="Hallmark Eastern Feed",Hallmark Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hallmark-channel-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hallmark_Channel_Logo.svg/320px-Hallmark_Channel_Logo.svg.png" tvg-chno="1052" group-title="TVPass" tvg-name="Hallmark Eastern Feed",Hallmark Eastern Feed
 https://tvpass.org/live/HallmarkChannelEast/sd
-#EXTINF:-1 tvg-id="hallmark-drama"  tvg-logo="hallmark-family-hd" group-title="TVPass" tvg-name="Hallmark Family HD",Hallmark Family HD
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hallmark-drama"  tvg-logo="hallmark-family-hd" tvg-chno="1053" group-title="TVPass" tvg-name="Hallmark Family HD",Hallmark Family HD
 https://tvpass.org/live/HallmarkDrama/sd
-#EXTINF:-1 tvg-id="hallmark-movies-mysteries-east"  tvg-logo="hallmark-mystery-eastern-hd" group-title="TVPass" tvg-name="Hallmark Mystery Eastern HD",Hallmark Mystery Eastern HD
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hallmark-movies-mysteries-east"  tvg-logo="hallmark-mystery-eastern-hd" tvg-chno="1054" group-title="TVPass" tvg-name="Hallmark Mystery Eastern HD",Hallmark Mystery Eastern HD
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
-#EXTINF:-1 tvg-id="hbo-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="TVPass" tvg-name="HBO Eastern Feed",HBO Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hbo-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hbo.default.svg" tvg-chno="1055" group-title="TVPass" tvg-name="HBO Eastern Feed",HBO Eastern Feed
 https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 tvg-id="hbo2-east"  tvg-logo="hbo-2-eastern-feed" group-title="TVPass" tvg-name="HBO 2 Eastern Feed",HBO 2 Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hbo2-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hbo2.default.svg" tvg-chno="1056" group-title="TVPass" tvg-name="HBO 2 Eastern Feed",HBO 2 Eastern Feed
 https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 tvg-id="hbo-comedy-east"  tvg-logo="hbo-comedy-hd-east" group-title="TVPass" tvg-name="HBO Comedy HD East",HBO Comedy HD East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hbo-comedy-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hbo.default.svg" tvg-chno="1057" group-title="TVPass" tvg-name="HBO Comedy HD East",HBO Comedy HD East
 https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id="hbo-family-east"  tvg-logo="hbo-family-eastern-feed" group-title="TVPass" tvg-name="HBO Family Eastern Feed",HBO Family Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hbo-family-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hbo.default.svg" tvg-chno="1058" group-title="TVPass" tvg-name="HBO Family Eastern Feed",HBO Family Eastern Feed
 https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id="hbo-signature-east"  tvg-logo="hbo-signature-hbo-3-eastern" group-title="TVPass" tvg-name="HBO Signature (HBO 3) Eastern",HBO Signature (HBO 3) Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hbo-signature-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hbo.default.svg" tvg-chno="1059" group-title="TVPass" tvg-name="HBO Signature (HBO 3) Eastern",HBO Signature (HBO 3) Eastern
 https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id="hbo-zone-east"  tvg-logo="hbo-zone-hd-east" group-title="TVPass" tvg-name="HBO Zone HD East",HBO Zone HD East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hbo-zone-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hbo.default.svg" tvg-chno="1060" group-title="TVPass" tvg-name="HBO Zone HD East",HBO Zone HD East
 https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id="hgtv-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HGTV_logo_2015.svg/320px-HGTV_logo_2015.svg.png" group-title="TVPass" tvg-name="HGTV USA Eastern Feed",HGTV USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hgtv-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hgtv.default.svg" tvg-chno="1061" group-title="TVPass" tvg-name="HGTV USA Eastern Feed",HGTV USA Eastern Feed
 https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 tvg-id="history-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_History_Channel_logo.svg/320px-The_History_Channel_logo.svg.png" group-title="TVPass" tvg-name="History Channel US Eastern Feed",History Channel US Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="history-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/history.default.svg" tvg-chno="1062" group-title="TVPass" tvg-name="History Channel US Eastern Feed",History Channel US Eastern Feed
 https://tvpass.org/live/HistoryEast/sd
-#EXTINF:-1 tvg-id="hln"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/HLN_logo.svg/320px-HLN_logo.svg.png" group-title="TVPass" tvg-name="HLN",HLN
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="hln"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/hln.default.svg" tvg-chno="1063" group-title="TVPass" tvg-name="HLN",HLN
 https://tvpass.org/live/HLN/sd
-#EXTINF:-1 tvg-id="ifc-east"  tvg-logo="independent-film-channel-us" group-title="TVPass" tvg-name="Independent Film Channel US",Independent Film Channel US
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="ifc-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/ifc.default.svg" tvg-chno="1064" group-title="TVPass" tvg-name="Independent Film Channel US",Independent Film Channel US
 https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1 tvg-id="investigation-discovery-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Investigation_Discovery_logo.svg/320px-Investigation_Discovery_logo.svg.png" group-title="TVPass" tvg-name="Investigation Discovery USA Eastern",Investigation Discovery USA Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="investigation-discovery-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/investigationdiscovery.default.svg" tvg-chno="1065" group-title="TVPass" tvg-name="Investigation Discovery USA Eastern",Investigation Discovery USA Eastern
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
-#EXTINF:-1 tvg-id="iontv-east"  tvg-logo="ion-eastern-feed" group-title="TVPass" tvg-name="ION Eastern Feed",ION Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="iontv-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iontv.default.png" tvg-chno="1066" group-title="TVPass" tvg-name="ION Eastern Feed",ION Eastern Feed
 https://tvpass.org/live/IONTVEast/sd
-#EXTINF:-1 tvg-id="lifetime-movies-east"  tvg-logo="lifetime-movies-east" group-title="TVPass" tvg-name="Lifetime Movies East",Lifetime Movies East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="lifetime-movies-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/lifetime.default.svg" tvg-chno="1067" group-title="TVPass" tvg-name="Lifetime Movies East",Lifetime Movies East
 https://tvpass.org/live/LifetimeMoviesEast/sd
-#EXTINF:-1 tvg-id="lifetime-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lifetime_logo_2020.svg/320px-Lifetime_logo_2020.svg.png" group-title="TVPass" tvg-name="Lifetime Network US Eastern Feed",Lifetime Network US Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="lifetime-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/lifetime.default.svg" tvg-chno="1068" group-title="TVPass" tvg-name="Lifetime Network US Eastern Feed",Lifetime Network US Eastern Feed
 https://tvpass.org/live/LifetimeEast/sd
-#EXTINF:-1 tvg-id="logo-east"  tvg-logo="logo-east" group-title="TVPass" tvg-name="LOGO East",LOGO East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="logo-east"  tvg-logo="logo-east" tvg-chno="1069" group-title="TVPass" tvg-name="LOGO East",LOGO East
 https://tvpass.org/live/LogoEast/sd
-#EXTINF:-1 tvg-id="marquee-sports-network"  tvg-logo="marquee-sports-network" group-title="TVPass" tvg-name="Marquee Sports Network",Marquee Sports Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="marquee-sports-network"  tvg-logo="marquee-sports-network" tvg-chno="1070" group-title="TVPass" tvg-name="Marquee Sports Network",Marquee Sports Network
 https://tvpass.org/live/marquee-sports-network/sd
-#EXTINF:-1 tvg-id="metv-toons"  tvg-logo="metv-toons-wjlp2-new-jersey" group-title="TVPass" tvg-name="MeTV Toons (WJLP2) New Jersey",MeTV Toons (WJLP2) New Jersey
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="metv-toons"  tvg-logo="metv-toons-wjlp2-new-jersey" tvg-chno="1071" group-title="TVPass" tvg-name="MeTV Toons (WJLP2) New Jersey",MeTV Toons (WJLP2) New Jersey
 https://tvpass.org/live/metv-toons/sd
-#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york"  tvg-logo="metv-wjlp-new-jerseynew-york" group-title="TVPass" tvg-name="MeTV Wjlp New Jerseynew York",MeTV Wjlp New Jerseynew York
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="metv-wjlp-new-jerseynew-york"  tvg-logo="metv-wjlp-new-jerseynew-york" tvg-chno="1072" group-title="TVPass" tvg-name="MeTV Wjlp New Jerseynew York",MeTV Wjlp New Jerseynew York
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 tvg-id="midatlantic-sports-network"  tvg-logo="midatlantic-sports-network" group-title="TVPass" tvg-name="Midatlantic Sports Network",Midatlantic Sports Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="midatlantic-sports-network"  tvg-logo="midatlantic-sports-network" tvg-chno="1073" group-title="TVPass" tvg-name="Midatlantic Sports Network",Midatlantic Sports Network
 https://tvpass.org/live/midatlantic-sports-network/sd
-#EXTINF:-1 tvg-id="mlb-network"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MLB_Network_Logo.svg/320px-MLB_Network_Logo.svg.png" group-title="TVPass" tvg-name="MLB Network",MLB Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="mlb-network"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MLB_Network_Logo.svg/320px-MLB_Network_Logo.svg.png" tvg-chno="1074" group-title="TVPass" tvg-name="MLB Network",MLB Network
 https://tvpass.org/live/MLBNetwork/sd
-#EXTINF:-1 tvg-id="monumental-sports-network"  tvg-logo="monumental-sports-network" group-title="TVPass" tvg-name="Monumental Sports Network",Monumental Sports Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="monumental-sports-network"  tvg-logo="monumental-sports-network" tvg-chno="1075" group-title="TVPass" tvg-name="Monumental Sports Network",Monumental Sports Network
 https://tvpass.org/live/monumental-sports-network/sd
-#EXTINF:-1 tvg-id="more-max-east"  tvg-logo="moremax-eastern" group-title="TVPass" tvg-name="MoreMax Eastern",MoreMax Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="more-max-east"  tvg-logo="moremax-eastern" tvg-chno="1076" group-title="TVPass" tvg-name="MoreMax Eastern",MoreMax Eastern
 https://tvpass.org/live/MoreMaxEast/sd
-#EXTINF:-1 tvg-id="motortrend"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/MotorTrend_logo_2018.svg/320px-MotorTrend_logo_2018.svg.png" group-title="TVPass" tvg-name="Motor Trend HD",Motor Trend HD
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="motortrend"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/motortrend.default.svg" tvg-chno="1077" group-title="TVPass" tvg-name="Motor Trend HD",Motor Trend HD
 https://tvpass.org/live/Motortrend/sd
-#EXTINF:-1 tvg-id="movie-max-east"  tvg-logo="moviemax-max-6-east" group-title="TVPass" tvg-name="MovieMax (Max 6) East",MovieMax (Max 6) East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="movie-max-east"  tvg-logo="moviemax-max-6-east" tvg-chno="1078" group-title="TVPass" tvg-name="MovieMax (Max 6) East",MovieMax (Max 6) East
 https://tvpass.org/live/MovieMaxEast/sd
-#EXTINF:-1 tvg-id="msg-madison-square-gardens"  tvg-logo="msg-madison-square-gardens" group-title="TVPass" tvg-name="MSG Madison Square Gardens",MSG Madison Square Gardens
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="msg-madison-square-gardens"  tvg-logo="msg-madison-square-gardens" tvg-chno="1079" group-title="TVPass" tvg-name="MSG Madison Square Gardens",MSG Madison Square Gardens
 https://tvpass.org/live/msg-madison-square-gardens/sd
-#EXTINF:-1 tvg-id="msnbc"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/MSNBC_2015_logo.svg/320px-MSNBC_2015_logo.svg.png" group-title="TVPass" tvg-name="MSNBC USA",MSNBC USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="msnbc"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/msnbc.default.svg" tvg-chno="1080" group-title="TVPass" tvg-name="MSNBC USA",MSNBC USA
 https://tvpass.org/live/MSNBC/sd
-#EXTINF:-1 tvg-id="mtv-2-east"  tvg-logo="mtv-2-east" group-title="TVPass" tvg-name="MTV 2 East",MTV 2 East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="mtv-2-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/mtv.default.svg" tvg-chno="1081" group-title="TVPass" tvg-name="MTV 2 East",MTV 2 East
 https://tvpass.org/live/mtv-2-east/sd
-#EXTINF:-1 tvg-id="mtv-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MTV_2021_logo.svg/320px-MTV_2021_logo.svg.png" group-title="TVPass" tvg-name="MTV USA Eastern Feed",MTV USA Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="mtv-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/mtv.default.svg" tvg-chno="1082" group-title="TVPass" tvg-name="MTV USA Eastern Feed",MTV USA Eastern Feed
 https://tvpass.org/live/MTVEast/sd
-#EXTINF:-1 tvg-id="national-geographic-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/National_Geographic_logo.svg/320px-National_Geographic_logo.svg.png" group-title="TVPass" tvg-name="National Geographic US Eastern",National Geographic US Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="national-geographic-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/National_Geographic_logo.svg/320px-National_Geographic_logo.svg.png" tvg-chno="1083" group-title="TVPass" tvg-name="National Geographic US Eastern",National Geographic US Eastern
 https://tvpass.org/live/NationalGeographicEast/sd
-#EXTINF:-1 tvg-id="national-geographic-wild-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nat_Geo_Wild_Logo.svg/320px-Nat_Geo_Wild_Logo.svg.png" group-title="TVPass" tvg-name="National Geographic Wild",National Geographic Wild
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="national-geographic-wild-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nat_Geo_Wild_Logo.svg/320px-Nat_Geo_Wild_Logo.svg.png" tvg-chno="1084" group-title="TVPass" tvg-name="National Geographic Wild",National Geographic Wild
 https://tvpass.org/live/NationalGeographicWildEast/sd
-#EXTINF:-1 tvg-id="new-england-sports-network"  tvg-logo="new-england-sports-network" group-title="TVPass" tvg-name="New England Sports Network",New England Sports Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="new-england-sports-network"  tvg-logo="new-england-sports-network" tvg-chno="1085" group-title="TVPass" tvg-name="New England Sports Network",New England Sports Network
 https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1 tvg-id="newsmax-tv"  tvg-logo="newsmax-tv" group-title="TVPass" tvg-name="NewsMax TV",NewsMax TV
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="newsmax-tv"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/newsmax.default.svg" tvg-chno="1086" group-title="TVPass" tvg-name="NewsMax TV",NewsMax TV
 https://tvpass.org/live/NewsmaxTV/sd
-#EXTINF:-1 tvg-id="nfl-network"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NFL_Network_logo.svg/320px-NFL_Network_logo.svg.png" group-title="TVPass" tvg-name="NFL Network",NFL Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nfl-network"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nflnetwork.default.svg" tvg-chno="1087" group-title="TVPass" tvg-name="NFL Network",NFL Network
 https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-id="nfl-red-zone"  tvg-logo="nfl-redzone" group-title="TVPass" tvg-name="NFL RedZone",NFL RedZone
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nfl-red-zone"  tvg-logo="nfl-redzone" tvg-chno="1088" group-title="TVPass" tvg-name="NFL RedZone",NFL RedZone
 https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 tvg-id="nhl-network"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NHL_Network_logo.svg/320px-NHL_Network_logo.svg.png" group-title="TVPass" tvg-name="NHL Network USA",NHL Network USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nhl-network"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nhlnetwork.default.svg" tvg-chno="1089" group-title="TVPass" tvg-name="NHL Network USA",NHL Network USA
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id="nick-jr-east"  tvg-logo="nick-jr-east" group-title="TVPass" tvg-name="Nick Jr. East",Nick Jr. East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nick-jr-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nickjr.default.png" tvg-chno="1090" group-title="TVPass" tvg-name="Nick Jr. East",Nick Jr. East
 https://tvpass.org/live/NickJrEast/sd
-#EXTINF:-1 tvg-id="nickelodeon-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/320px-Nickelodeon_2009_logo.svg.png" group-title="TVPass" tvg-name="Nickelodeon USA East Feed",Nickelodeon USA East Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nickelodeon-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nickelodeon.default.png" tvg-chno="1091" group-title="TVPass" tvg-name="Nickelodeon USA East Feed",Nickelodeon USA East Feed
 https://tvpass.org/live/NickelodeonEast/sd
-#EXTINF:-1 tvg-id="nicktoons-east"  tvg-logo="nicktoons-east" group-title="TVPass" tvg-name="Nicktoons East",Nicktoons East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nicktoons-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nicktoons.default.png" tvg-chno="1092" group-title="TVPass" tvg-name="Nicktoons East",Nicktoons East
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1 tvg-id="own-east"  tvg-logo="oprah-winfrey-network-usa-eastern" group-title="TVPass" tvg-name="Oprah Winfrey Network USA Eastern",Oprah Winfrey Network USA Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="own-east"  tvg-logo="oprah-winfrey-network-usa-eastern" tvg-chno="1093" group-title="TVPass" tvg-name="Oprah Winfrey Network USA Eastern",Oprah Winfrey Network USA Eastern
 https://tvpass.org/live/OWNEast/sd
-#EXTINF:-1 tvg-id="outdoor-channel"  tvg-logo="outdoor-channel-us" group-title="TVPass" tvg-name="Outdoor Channel US",Outdoor Channel US
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="outdoor-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/outdoorchannel.default.svg" tvg-chno="1094" group-title="TVPass" tvg-name="Outdoor Channel US",Outdoor Channel US
 https://tvpass.org/live/OutdoorChannel/sd
-#EXTINF:-1 tvg-id="oxygen-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oxygen_Media_logo_2017.svg/320px-Oxygen_Media_logo_2017.svg.png" group-title="TVPass" tvg-name="Oxygen Eastern Feed",Oxygen Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="oxygen-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/oxygen.default.svg" tvg-chno="1095" group-title="TVPass" tvg-name="Oxygen Eastern Feed",Oxygen Eastern Feed
 https://tvpass.org/live/OxygenEast/sd
-#EXTINF:-1 tvg-id="wnet"  tvg-logo="pbs-wnet-new-york-ny" group-title="TVPass" tvg-name="PBS (WNET) New York, NY",NY
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="wnet"  tvg-logo="pbs-wnet-new-york-ny" tvg-chno="1096" group-title="TVPass" tvg-name="PBS (WNET) New York, NY",NY
 https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id="reelz"  tvg-logo="reelzchannel" group-title="TVPass" tvg-name="ReelzChannel",ReelzChannel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="reelz"  tvg-logo="reelzchannel" tvg-chno="1097" group-title="TVPass" tvg-name="ReelzChannel",ReelzChannel
 https://tvpass.org/live/Reelz/sd
-#EXTINF:-1 tvg-id="secn"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SEC_Network_Logo_2014.svg/320px-SEC_Network_Logo_2014.svg.png" group-title="TVPass" tvg-name="SEC Network",SEC Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="secn"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SEC_Network_Logo_2014.svg/320px-SEC_Network_Logo_2014.svg.png" tvg-chno="1098" group-title="TVPass" tvg-name="SEC Network",SEC Network
 https://tvpass.org/live/SECN/sd
-#EXTINF:-1 tvg-id="showtime-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/320px-Showtime.svg.png" group-title="TVPass" tvg-name="Showtime Eastern Feed",Showtime Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="showtime-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/showtime.default.svg" tvg-chno="1099" group-title="TVPass" tvg-name="Showtime Eastern Feed",Showtime Eastern Feed
 https://tvpass.org/live/ShowtimeEast/sd
-#EXTINF:-1 tvg-id="showtime2-east"  tvg-logo="showtime-2-eastern" group-title="TVPass" tvg-name="Showtime 2 Eastern",Showtime 2 Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="showtime2-east"  tvg-logo="showtime-2-eastern" tvg-chno="1100" group-title="TVPass" tvg-name="Showtime 2 Eastern",Showtime 2 Eastern
 https://tvpass.org/live/Showtime2East/sd
-#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast"  tvg-logo="sny-sportsnet-new-york-comcast" group-title="TVPass" tvg-name="SNY Sportsnet New York Comcast",SNY Sportsnet New York Comcast
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sny-sportsnet-new-york-comcast"  tvg-logo="sny-sportsnet-new-york-comcast" tvg-chno="1101" group-title="TVPass" tvg-name="SNY Sportsnet New York Comcast",SNY Sportsnet New York Comcast
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-id="space-city-home-network"  tvg-logo="space-city-home-network" group-title="TVPass" tvg-name="Space City Home Network",Space City Home Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="space-city-home-network"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/space.default.png" tvg-chno="1102" group-title="TVPass" tvg-name="Space City Home Network",Space City Home Network
 https://tvpass.org/live/space-city-home-network/sd
-#EXTINF:-1 tvg-id="spectrum-sportsnet-la"  tvg-logo="spectrum-sportsnet-la" group-title="TVPass" tvg-name="Spectrum SportsNet LA",Spectrum SportsNet LA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="spectrum-sportsnet-la"  tvg-logo="spectrum-sportsnet-la" tvg-chno="1103" group-title="TVPass" tvg-name="Spectrum SportsNet LA",Spectrum SportsNet LA
 https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-id="spectrum-sportsnet"  tvg-logo="spectrum-sportsnet" group-title="TVPass" tvg-name="Spectrum Sportsnet Lakers",Spectrum Sportsnet Lakers
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="spectrum-sportsnet"  tvg-logo="spectrum-sportsnet" tvg-chno="1104" group-title="TVPass" tvg-name="Spectrum Sportsnet Lakers",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/sd
-#EXTINF:-1 tvg-id="starz-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Starz_2016.svg/320px-Starz_2016.svg.png" group-title="TVPass" tvg-name="Starz Eastern",Starz Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="starz-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Starz_2016.svg/320px-Starz_2016.svg.png" tvg-chno="1105" group-title="TVPass" tvg-name="Starz Eastern",Starz Eastern
 https://tvpass.org/live/StarzEast/sd
-#EXTINF:-1 tvg-id="sundance-tv-east"  tvg-logo="sundancetv-usa-east" group-title="TVPass" tvg-name="SundanceTV USA East",SundanceTV USA East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sundance-tv-east"  tvg-logo="sundancetv-usa-east" tvg-chno="1106" group-title="TVPass" tvg-name="SundanceTV USA East",SundanceTV USA East
 https://tvpass.org/live/SundanceTVEast/sd
-#EXTINF:-1 tvg-id="syfy-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Syfy_Logo.svg/320px-Syfy_Logo.svg.png" group-title="TVPass" tvg-name="Syfy Eastern Feed",Syfy Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="syfy-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/syfy.default.svg" tvg-chno="1107" group-title="TVPass" tvg-name="Syfy Eastern Feed",Syfy Eastern Feed
 https://tvpass.org/live/SyfyEast/sd
-#EXTINF:-1 tvg-id="tbs-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TBS_American_TV_channel_logo.svg/320px-TBS_American_TV_channel_logo.svg.png" group-title="TVPass" tvg-name="TBS East",TBS East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tbs-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tbs.default.svg" tvg-chno="1108" group-title="TVPass" tvg-name="TBS East",TBS East
 https://tvpass.org/live/TBSEast/sd
-#EXTINF:-1 tvg-id="teen-nick-east"  tvg-logo="teennick-eastern" group-title="TVPass" tvg-name="TeenNick Eastern",TeenNick Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="teen-nick-east"  tvg-logo="teennick-eastern" tvg-chno="1109" group-title="TVPass" tvg-name="TeenNick Eastern",TeenNick Eastern
 https://tvpass.org/live/TeenNickEast/sd
-#EXTINF:-1 tvg-id="cooking-channel"  tvg-logo="the-cooking-channel" group-title="TVPass" tvg-name="The Cooking Channel",The Cooking Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="cooking-channel"  tvg-logo="the-cooking-channel" tvg-chno="1110" group-title="TVPass" tvg-name="The Cooking Channel",The Cooking Channel
 https://tvpass.org/live/CookingChannel/sd
-#EXTINF:-1 tvg-id="tennis-channel"  tvg-logo="the-tennis-channel" group-title="TVPass" tvg-name="The Tennis Channel",The Tennis Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tennis-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tennischannel.default.svg" tvg-chno="1111" group-title="TVPass" tvg-name="The Tennis Channel",The Tennis Channel
 https://tvpass.org/live/TennisChannel/sd
-#EXTINF:-1 tvg-id="the-weather-channel"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Weather_Channel_Logo_2005-present.svg/320px-The_Weather_Channel_Logo_2005-present.svg.png" group-title="TVPass" tvg-name="The Weather Channel",The Weather Channel
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="the-weather-channel"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/theweatherchannel.default.svg" tvg-chno="1112" group-title="TVPass" tvg-name="The Weather Channel",The Weather Channel
 https://tvpass.org/live/TheWeatherChannel/sd
-#EXTINF:-1 tvg-id="tlc-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TLC_Logo.svg/320px-TLC_Logo.svg.png" group-title="TVPass" tvg-name="TLC USA Eastern",TLC USA Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tlc-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tlc.default.svg" tvg-chno="1113" group-title="TVPass" tvg-name="TLC USA Eastern",TLC USA Eastern
 https://tvpass.org/live/TLCEast/sd
-#EXTINF:-1 tvg-id="the-movie-channel-east"  tvg-logo="tmc-us-eastern-feed" group-title="TVPass" tvg-name="TMC (US) Eastern Feed",TMC (US) Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="the-movie-channel-east"  tvg-logo="tmc-us-eastern-feed" tvg-chno="1114" group-title="TVPass" tvg-name="TMC (US) Eastern Feed",TMC (US) Eastern Feed
 https://tvpass.org/live/TheMovieChannelEast/sd
-#EXTINF:-1 tvg-id="tnt-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TNT_Logo_2016.svg/320px-TNT_Logo_2016.svg.png" group-title="TVPass" tvg-name="TNT Eastern Feed",TNT Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tnt-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tnt.default.svg" tvg-chno="1115" group-title="TVPass" tvg-name="TNT Eastern Feed",TNT Eastern Feed
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id="travel-channel-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Travel_Channel_Logo_2018.svg/320px-Travel_Channel_Logo_2018.svg.png" group-title="TVPass" tvg-name="Travel US East",Travel US East
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="travel-channel-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Travel_Channel_Logo_2018.svg/320px-Travel_Channel_Logo_2018.svg.png" tvg-chno="1116" group-title="TVPass" tvg-name="Travel US East",Travel US East
 https://tvpass.org/live/TravelChannelEast/sd
-#EXTINF:-1 tvg-id="tru-tv-east"  tvg-logo="trutv-usa-eastern" group-title="TVPass" tvg-name="truTV USA Eastern",truTV USA Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tru-tv-east"  tvg-logo="trutv-usa-eastern" tvg-chno="1117" group-title="TVPass" tvg-name="truTV USA Eastern",truTV USA Eastern
 https://tvpass.org/live/truTVEast/sd
-#EXTINF:-1 tvg-id="tsn1"  tvg-logo="tsn1" group-title="TVPass" tvg-name="TSN1",TSN1
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tsn1"  tvg-logo="tsn1" tvg-chno="1118" group-title="TVPass" tvg-name="TSN1",TSN1
 https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id="tsn2"  tvg-logo="tsn2" group-title="TVPass" tvg-name="TSN2",TSN2
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tsn2"  tvg-logo="tsn2" tvg-chno="1119" group-title="TVPass" tvg-name="TSN2",TSN2
 https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-id="tsn3"  tvg-logo="tsn3" group-title="TVPass" tvg-name="TSN3",TSN3
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tsn3"  tvg-logo="tsn3" tvg-chno="1120" group-title="TVPass" tvg-name="TSN3",TSN3
 https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-id="tsn4"  tvg-logo="tsn4" group-title="TVPass" tvg-name="TSN4",TSN4
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tsn4"  tvg-logo="tsn4" tvg-chno="1121" group-title="TVPass" tvg-name="TSN4",TSN4
 https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-id="tsn5"  tvg-logo="tsn5" group-title="TVPass" tvg-name="TSN5",TSN5
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tsn5"  tvg-logo="tsn5" tvg-chno="1122" group-title="TVPass" tvg-name="TSN5",TSN5
 https://tvpass.org/live/tsn5/sd
-#EXTINF:-1 tvg-id="tcm-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TCM_Logo_2020.svg/320px-TCM_Logo_2020.svg.png" group-title="TVPass" tvg-name="Turner Classic Movies USA",Turner Classic Movies USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tcm-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tcm.default.svg" tvg-chno="1123" group-title="TVPass" tvg-name="Turner Classic Movies USA",Turner Classic Movies USA
 https://tvpass.org/live/TCMEast/sd
-#EXTINF:-1 tvg-id="tv-land-eastern"  tvg-logo="tv-land-eastern" group-title="TVPass" tvg-name="TV Land Eastern",TV Land Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tv-land-eastern"  tvg-logo="tv-land-eastern" tvg-chno="1124" group-title="TVPass" tvg-name="TV Land Eastern",TV Land Eastern
 https://tvpass.org/live/tv-land-eastern/sd
-#EXTINF:-1 tvg-id="tv-one"  tvg-logo="tv-one" group-title="TVPass" tvg-name="TV One",TV One
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="tv-one"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tvone.default.svg" tvg-chno="1125" group-title="TVPass" tvg-name="TV One",TV One
 https://tvpass.org/live/TVOne/sd
-#EXTINF:-1 tvg-id="univision-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Univision_2019_logo.svg/320px-Univision_2019_logo.svg.png" group-title="TVPass" tvg-name="Univision Eastern Feed",Univision Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="univision-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Univision_2019_logo.svg/320px-Univision_2019_logo.svg.png" tvg-chno="1126" group-title="TVPass" tvg-name="Univision Eastern Feed",Univision Eastern Feed
 https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="usa-network-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/USA_Network_logo_2016.svg/320px-USA_Network_logo_2016.svg.png" group-title="TVPass" tvg-name="USA Network East Feed",USA Network East Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="usa-network-east"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/USA_Network_logo_2016.svg/320px-USA_Network_logo_2016.svg.png" tvg-chno="1127" group-title="TVPass" tvg-name="USA Network East Feed",USA Network East Feed
 https://tvpass.org/live/USANetworkEast/sd
-#EXTINF:-1 tvg-id="vh1-east"  tvg-logo="vh1-eastern-feed" group-title="TVPass" tvg-name="VH1 Eastern Feed",VH1 Eastern Feed
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="vh1-east"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/vh1.default.svg" tvg-chno="1128" group-title="TVPass" tvg-name="VH1 Eastern Feed",VH1 Eastern Feed
 https://tvpass.org/live/VH1East/sd
-#EXTINF:-1 tvg-id="vicetv"  tvg-logo="vice" group-title="TVPass" tvg-name="VICE",VICE
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="vicetv"  tvg-logo="vice" tvg-chno="1129" group-title="TVPass" tvg-name="VICE",VICE
 https://tvpass.org/live/VICETV/sd
-#EXTINF:-1 tvg-id="we-tv-east"  tvg-logo="we-womens-entertainment-eastern" group-title="TVPass" tvg-name="WE (Women's Entertainment) Eastern",WE (Women's Entertainment) Eastern
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="we-tv-east"  tvg-logo="we-womens-entertainment-eastern" tvg-chno="1130" group-title="TVPass" tvg-name="WE (Women's Entertainment) Eastern",WE (Women's Entertainment) Eastern
 https://tvpass.org/live/WeTVEast/sd
-#EXTINF:-1 tvg-id="wpix"  tvg-logo="wpix-new-york-superstation" group-title="TVPass" tvg-name="WPIX New York (SUPERSTATION)",WPIX New York (SUPERSTATION)
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="wpix"  tvg-logo="wpix-new-york-superstation" tvg-chno="1131" group-title="TVPass" tvg-name="WPIX New York (SUPERSTATION)",WPIX New York (SUPERSTATION)
 https://tvpass.org/live/WPIX/sd
-#EXTINF:-1 tvg-id="yes-network"  tvg-logo="yes-network" group-title="TVPass" tvg-name="Yes Network",Yes Network
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="yes-network"  tvg-logo="yes-network" tvg-chno="1132" group-title="TVPass" tvg-name="Yes Network",Yes Network
 https://tvpass.org/live/yes-network/sd
-#EXTINF:-1 tvg-id="fanduel-sports-network-west"  tvg-logo="fanduel-sports-network-west" group-title="TVPass" tvg-name="Fanduel Sports Network West",Fanduel Sports Network West
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="fanduel-sports-network-west"  tvg-logo="fanduel-sports-network-west" tvg-chno="1133" group-title="TVPass" tvg-name="Fanduel Sports Network West",Fanduel Sports Network West
 https://tvpass.org/live/fanduel-sports-network-west/sd
-#EXTINF:-1 tvg-id="nbatv"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NBA_TV.svg/320px-NBA_TV.svg.png" group-title="TVPass" tvg-name="NBA TV USA",NBA TV USA
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nbatv"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nbatv.default.svg" tvg-chno="1134" group-title="TVPass" tvg-name="NBA TV USA",NBA TV USA
 https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca"  tvg-logo="nbc-knbc-los-angeles-ca" group-title="TVPass" tvg-name="NBC (KNBC) Los Angeles",NBC (KNBC) Los Angeles
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nbc-knbc-los-angeles-ca"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nbc.default.svg" tvg-chno="1135" group-title="TVPass" tvg-name="NBC (KNBC) Los Angeles",NBC (KNBC) Los Angeles
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="wnbcdt1"  tvg-logo="nbc-wnbc-new-york-ny" group-title="TVPass" tvg-name="NBC (WNBC) New York, NY",NY
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="wnbcdt1"  tvg-logo="nbc-wnbc-new-york-ny" tvg-chno="1136" group-title="TVPass" tvg-name="NBC (WNBC) New York, NY",NY
 https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id="nbc-sports-bay-area"  tvg-logo="nbc-sports-bay-area" group-title="TVPass" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nbc-sports-bay-area"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nbc.default.svg" tvg-chno="1137" group-title="TVPass" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/sd
-#EXTINF:-1 tvg-id="nbc-sports-boston"  tvg-logo="nbc-sports-boston" group-title="TVPass" tvg-name="NBC Sports Boston",NBC Sports Boston
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nbc-sports-boston"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nbc.default.svg" tvg-chno="1138" group-title="TVPass" tvg-name="NBC Sports Boston",NBC Sports Boston
 https://tvpass.org/live/nbc-sports-boston/sd
-#EXTINF:-1 tvg-id="nbc-sports-california"  tvg-logo="nbc-sports-california" group-title="TVPass" tvg-name="NBC Sports California",NBC Sports California
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nbc-sports-california"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nbc.default.svg" tvg-chno="1139" group-title="TVPass" tvg-name="NBC Sports California",NBC Sports California
 https://tvpass.org/live/nbc-sports-california/sd
-#EXTINF:-1 tvg-id="nbc-sports-philadelphia"  tvg-logo="nbc-sports-philadelphia" group-title="TVPass" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="nbc-sports-philadelphia"  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nbc.default.svg" tvg-chno="1140" group-title="TVPass" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
 https://tvpass.org/live/nbc-sports-philadelphia/sd
-#EXTINF:-1 tvg-id="sportsnet-east"  tvg-logo="sportsnet-east" group-title="TVPass" tvg-name="Sportsnet (East)",Sportsnet (East)
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-east"  tvg-logo="sportsnet-east" tvg-chno="1141" group-title="TVPass" tvg-name="Sportsnet (East)",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
-#EXTINF:-1 tvg-id="sportsnet-360"  tvg-logo="sportsnet-360" group-title="TVPass" tvg-name="Sportsnet 360",Sportsnet 360
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-360"  tvg-logo="sportsnet-360" tvg-chno="1142" group-title="TVPass" tvg-name="Sportsnet 360",Sportsnet 360
 https://tvpass.org/live/sportsnet-360/sd
-#EXTINF:-1 tvg-id="sportsnet-one"  tvg-logo="sportsnet-one" group-title="TVPass" tvg-name="Sportsnet One",Sportsnet One
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-one"  tvg-logo="sportsnet-one" tvg-chno="1143" group-title="TVPass" tvg-name="Sportsnet One",Sportsnet One
 https://tvpass.org/live/sportsnet-one/sd
-#EXTINF:-1 tvg-id="sportsnet-ontario"  tvg-logo="sportsnet-ontario" group-title="TVPass" tvg-name="Sportsnet Ontario",Sportsnet Ontario
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-ontario"  tvg-logo="sportsnet-ontario" tvg-chno="1144" group-title="TVPass" tvg-name="Sportsnet Ontario",Sportsnet Ontario
 https://tvpass.org/live/sportsnet-ontario/sd
-#EXTINF:-1 tvg-id="sportsnet-pacific"  tvg-logo="sportsnet-pacific" group-title="TVPass" tvg-name="Sportsnet Pacific",Sportsnet Pacific
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-pacific"  tvg-logo="sportsnet-pacific" tvg-chno="1145" group-title="TVPass" tvg-name="Sportsnet Pacific",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/sd
-#EXTINF:-1 tvg-id="sportsnet-pittsburgh"  tvg-logo="sportsnet-pittsburgh" group-title="TVPass" tvg-name="Sportsnet Pittsburgh",Sportsnet Pittsburgh
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-pittsburgh"  tvg-logo="sportsnet-pittsburgh" tvg-chno="1146" group-title="TVPass" tvg-name="Sportsnet Pittsburgh",Sportsnet Pittsburgh
 https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-id="sportsnet-west"  tvg-logo="sportsnet-west" group-title="TVPass" tvg-name="Sportsnet West",Sportsnet West
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-west"  tvg-logo="sportsnet-west" tvg-chno="1147" group-title="TVPass" tvg-name="Sportsnet West",Sportsnet West
 https://tvpass.org/live/sportsnet-west/sd
 #EXTINF:-1  group-title="10 - شبکه جم" tvg-id="EkranMovies.ir@SD" tvg-name="Ekran Movies",Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
@@ -3688,7 +3688,7 @@ https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1  group-title="USA Mix (US)" tvg-id="FreeSpeechTV.us@SD",Free Speech TV (720p)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1  group-title="TVPass" tvg-id="freeform-east",Freeform (720p) [Geo-blocked]
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}"  tvg-chno="1148" group-title="TVPass" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/freeform.default.svg" tvg-id="freeform-east",Freeform (720p) [Geo-blocked]
 https://tvpass.org/live/FreeformEast/hd
 #EXTINF:-1  group-title="USA Mix (US)" tvg-id="FTFSports.us@SD",FTF Sports (720p)
 https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
@@ -4317,7 +4317,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m
 https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
 #EXTINF:-1  group-title="USA Mix (US)" tvg-id="WCAU621.us@HD",WCAU-DT1 (1080p)
 https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
-#EXTINF:-1  group-title="TVPass" tvg-id="wcbsdt1",WCBS-DT1 (720p) [Geo-blocked]
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}"  tvg-chno="1149" group-title="TVPass" tvg-id="wcbsdt1",WCBS-DT1 (720p) [Geo-blocked]
 https://tvpass.org/live/WCBSDT1/hd
 #EXTINF:-1  group-title="USA Mix (US)" tvg-id="WEDQ34.us@HD",WEDQ-DT4 (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
@@ -4466,7 +4466,7 @@ https://stream.ads.ottera.tv/cl/260421d7jmp97108ighs2i413g/1280x720_2300000_0_f.
 https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  group-title="USA Mix (US)" tvg-id="RacerNetwork.us@SD",Racer Network (1080p)
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
-#EXTINF:-1  group-title="TVPass" tvg-id="nickelodeon-east",Nickelodeon (720p) [Not 24/7]
+#EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}"  tvg-chno="1150" group-title="TVPass" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nickelodeon.default.png" tvg-id="nickelodeon-east",Nickelodeon (720p) [Not 24/7]
 https://tvpass.org/live/NickelodeonEast/sd
 #EXTINF:-1  group-title="USA Mix (US)" tvg-id="DungeonTV.us@SD",Dungeon TV (480i)
 https://stream-us-east-1.getpublica.com/cl/260429d7p1k35skjef7n2hpgog/1280x720_2750882_1_f.m3u8?i=513_2251
