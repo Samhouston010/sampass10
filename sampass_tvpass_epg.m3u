@@ -273,7 +273,7 @@ https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
 https://khbhls.wns.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/itn.png" group-title="01 - اخبار فارسی برتر" tvg-name="ITN TV",ITN
 https://spf-cors-itn.cfcross.workers.dev/?url=https://livestream.5centscdn.com/tvitnweb1/145c6c9228c4d6586df49db1edf9cf4d.sdp/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/pulsemedia.jpg" group-title="01 - اخبار فارسی برتر" tvg-name="Pulse Media",Pulse Media
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pulsemedia.default.png" group-title="01 - اخبار فارسی برتر" tvg-name="Pulse Media",Pulse Media
 https://pulsehls.wns.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/didgahtv.png" group-title="01 - اخبار فارسی برتر" tvg-name="Didgah TV",دیدگاه
 https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
@@ -287,143 +287,157 @@ https://kjhls.wns.live/hls/stream.m3u8
 https://wmtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/gordafaridtv.png" group-title="01 - اخبار فارسی برتر" tvg-name="GordAfarid TV",گرد آفرید
 https://gatvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/mbcpersia.default.svg" group-title="02 - سرگرمی فارسی" tvg-name="MBC Persia",MBC Persia
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="04 - سرگرمی فارسی" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/mbcpersia.default.svg" group-title="04 - سرگرمی فارسی" tvg-name="MBC Persia",MBC Persia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/highvision.jpg" group-title="02 - سرگرمی فارسی" tvg-name="High Vision",های ویژن
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/highvision.jpg" group-title="04 - سرگرمی فارسی" tvg-name="High Vision",های ویژن
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/setarehtv.default.png" group-title="02 - سرگرمی فارسی" tvg-name="Setareh TV",ستاره
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/setarehtv.default.png" group-title="04 - سرگرمی فارسی" tvg-name="Setareh TV",ستاره
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/zedtvpersian.jpg" group-title="02 - سرگرمی فارسی" tvg-name="Zed TV",Zed TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/zedtv.default.png" group-title="04 - سرگرمی فارسی" tvg-name="Zed TV",Zed TV
 https://zedhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianaclassic.default.png" group-title="02 - سرگرمی فارسی" tvg-name="Classic TV",کلاسیک TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianaclassic.default.png" group-title="04 - سرگرمی فارسی" tvg-name="Classic TV",کلاسیک TV
 https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persiananostalgia.default.png" group-title="02 - سرگرمی فارسی" tvg-name="Khatereh TV",خاطره
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persiananostalgia.default.png" group-title="04 - سرگرمی فارسی" tvg-name="Khatereh TV",خاطره
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/goldstar.png" group-title="02 - سرگرمی فارسی" tvg-name="Goldstar TV",گلداستار
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/goldstar.png" group-title="04 - سرگرمی فارسی" tvg-name="Goldstar TV",گلداستار
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/khalijtv.jpg" group-title="02 - سرگرمی فارسی" tvg-name="Khalij TV",خلیج
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/khalijtv.jpg" group-title="04 - سرگرمی فارسی" tvg-name="Khalij TV",خلیج
 https://khalijhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/arkotv.jpg" group-title="02 - سرگرمی فارسی" tvg-name="Arko TV",آرکو
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/arkotv.jpg" group-title="04 - سرگرمی فارسی" tvg-name="Arko TV",آرکو
 https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" group-title="02 - سرگرمی فارسی" tvg-name="Net TV",نت TV
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" group-title="04 - سرگرمی فارسی" tvg-name="Net TV",نت TV
 https://nethls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg" group-title="02 - سرگرمی فارسی" tvg-name="T2 TV",T2
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg" group-title="04 - سرگرمی فارسی" tvg-name="T2 TV",T2
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/4u.png" group-title="02 - سرگرمی فارسی" tvg-name="4U TV",4U TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/4utv.default.png" group-title="04 - سرگرمی فارسی" tvg-name="4U TV",4U TV
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pbctapesh.default.png" group-title="02 - سرگرمی فارسی" tvg-name="Tapesh",تپش
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pbctapesh.default.png" group-title="04 - سرگرمی فارسی" tvg-name="Tapesh",تپش
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tapesh2.default.png" group-title="02 - سرگرمی فارسی" tvg-name="Tapesh Iran",تپش ایران
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/tapesh2.default.png" group-title="04 - سرگرمی فارسی" tvg-name="Tapesh Iran",تپش ایران
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg" group-title="04 - موسیقی فارسی" tvg-name="PMC",PMC
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="05 - موسیقی فارسی" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg" group-title="05 - موسیقی فارسی" tvg-name="PMC",PMC
 https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg" group-title="04 - موسیقی فارسی" tvg-name="PMC Royale",PMC Royale
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg" group-title="05 - موسیقی فارسی" tvg-name="PMC Royale",PMC Royale
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiojavan.default.svg" group-title="04 - موسیقی فارسی" tvg-name="Radio Javan TV",رادیو جوان TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiojavan.default.svg" group-title="05 - موسیقی فارسی" tvg-name="Radio Javan TV",رادیو جوان TV
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/avang.png" group-title="04 - موسیقی فارسی" tvg-name="Avang TV",آوانگ
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/avang.png" group-title="05 - موسیقی فارسی" tvg-name="Avang TV",آوانگ
 https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/navahang.default.svg" group-title="04 - موسیقی فارسی" tvg-name="Navahang TV",نواهنگ
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/navahang.default.svg" group-title="05 - موسیقی فارسی" tvg-name="Navahang TV",نواهنگ
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/sunmusic.default.png" group-title="04 - موسیقی فارسی" tvg-name="Sun Music",سان موزیک
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/sunmusic.default.png" group-title="05 - موسیقی فارسی" tvg-name="Sun Music",سان موزیک
 https://hls.sunmusic.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianamusic.default.png" group-title="04 - موسیقی فارسی" tvg-name="Persiana Music",پرشیانا موزیک
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianamusic.default.png" group-title="05 - موسیقی فارسی" tvg-name="Persiana Music",پرشیانا موزیک
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/presstv.default.svg" group-title="05 - IRIB" tvg-name="Press TV",پرس TV
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="06 - IRIB" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/presstv.default.svg" group-title="06 - IRIB" tvg-name="Press TV",پرس TV
 https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/ifilm.default.svg" group-title="05 - IRIB" tvg-name="iFilm Farsi",آی‌فیلم فارسی
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/ifilm.default.svg" group-title="06 - IRIB" tvg-name="iFilm Farsi",آی‌فیلم فارسی
 https://live.presstv.ir/hls/ifilmfa.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" group-title="05 - IRIB" tvg-name="iFilm English",آی‌فیلم انگلیسی
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" group-title="06 - IRIB" tvg-name="iFilm English",آی‌فیلم انگلیسی
 https://live.presstv.ir/hls/ifilmen.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcworldnews.default.svg" group-title="06 - اخبار جهانی" tvg-name="BBC News",BBC News
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="07 - اخبار جهانی" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bbcworldnews.default.svg" group-title="07 - اخبار جهانی" tvg-name="BBC News",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Al_Jazeera_English_Logo.png/320px-Al_Jazeera_English_Logo.png" group-title="06 - اخبار جهانی" tvg-name="Aljazeera English",الجزیره انگلیسی
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Al_Jazeera_English_Logo.png/320px-Al_Jazeera_English_Logo.png" group-title="07 - اخبار جهانی" tvg-name="Aljazeera English",الجزیره انگلیسی
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/france24.default.svg" group-title="06 - اخبار جهانی" tvg-name="France 24 EN",France 24 انگلیسی
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/france24.default.svg" group-title="07 - اخبار جهانی" tvg-name="France 24 EN",France 24 انگلیسی
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/france24.default.svg" group-title="06 - اخبار جهانی" tvg-name="France 24 FR",France 24 فرانسوی
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/france24.default.svg" group-title="07 - اخبار جهانی" tvg-name="France 24 FR",France 24 فرانسوی
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" group-title="06 - اخبار جهانی" tvg-name="DW News",DW News
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/dwdeutschewelle.default.svg" group-title="07 - اخبار جهانی" tvg-name="DW News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbsnews.default.svg" group-title="06 - اخبار جهانی" tvg-name="CBS News",CBS News
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cbsnews.default.svg" group-title="07 - اخبار جهانی" tvg-name="CBS News",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/abcnews.default.svg" group-title="06 - اخبار جهانی" tvg-name="ABC News",ABC News
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/abcnews.default.svg" group-title="07 - اخبار جهانی" tvg-name="ABC News",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bloomberg.default.svg" group-title="06 - اخبار جهانی" tvg-name="Bloomberg",Bloomberg
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/bloomberg.default.svg" group-title="07 - اخبار جهانی" tvg-name="Bloomberg",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/newsmax.default.svg" group-title="06 - اخبار جهانی" tvg-name="Newsmax TV",Newsmax
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/newsmax.default.svg" group-title="07 - اخبار جهانی" tvg-name="Newsmax TV",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/russiatoday.default.svg" group-title="06 - اخبار جهانی" tvg-name="Russia Today",Russia Today
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/russiatoday.default.svg" group-title="07 - اخبار جهانی" tvg-name="Russia Today",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/trtworld.default.svg" group-title="06 - اخبار جهانی" tvg-name="TRT World",TRT World
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/trtworld.default.svg" group-title="07 - اخبار جهانی" tvg-name="TRT World",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/wion.default.svg" group-title="06 - اخبار جهانی" tvg-name="WION",WION
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/wion.default.svg" group-title="07 - اخبار جهانی" tvg-name="WION",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nhkworld.default.svg" group-title="06 - اخبار جهانی" tvg-name="NHK World",NHK World
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/nhkworld.default.svg" group-title="07 - اخبار جهانی" tvg-name="NHK World",NHK World
 https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/arirangtv.default.svg" group-title="06 - اخبار جهانی" tvg-name="Arirang TV",Arirang TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/arirangtv.default.svg" group-title="07 - اخبار جهانی" tvg-name="Arirang TV",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/CGTN_logo_new.svg/320px-CGTN_logo_new.svg.png" group-title="06 - اخبار جهانی" tvg-name="CGTN English",CGTN English
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/cgtn.default.svg" group-title="07 - اخبار جهانی" tvg-name="CGTN English",CGTN English
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/kan11.default.svg" group-title="07 - اسرائیل" tvg-name="Kan 11",Kan 11
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="08 - اسرائیل" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/kan11.default.svg" group-title="08 - اسرائیل" tvg-name="Kan 11",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Makan_33_logo.png/240px-Makan_33_logo.png" group-title="07 - اسرائیل" tvg-name="Makan 33",Makan 33
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/makan33.default.png" group-title="08 - اسرائیل" tvg-name="Makan 33",Makan 33
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&fmp4
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/reshet13.default.svg" group-title="07 - اسرائیل" tvg-name="Reshet 13",Reshet 13
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/reshet13.default.svg" group-title="08 - اسرائیل" tvg-name="Reshet 13",Reshet 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/jltv.jpg" group-title="07 - اسرائیل" tvg-name="JLTV",JLTV - Jewish Life
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/jltv.jpg" group-title="08 - اسرائیل" tvg-name="JLTV",JLTV - Jewish Life
 https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Channel_14_Israel_logo.svg/320px-Channel_14_Israel_logo.svg.png" group-title="07 - اسرائیل" tvg-name="Channel 14",Channel 14 (Israel)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Channel_14_Israel_logo.svg/320px-Channel_14_Israel_logo.svg.png" group-title="08 - اسرائیل" tvg-name="Channel 14",Channel 14 (Israel)
 https://www.youtube.com/embed/live_stream?channel=UC-LRBEUet4xX2fRB3JitFxg
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fashiontv.default.svg" group-title="08 - فشن" tvg-name="Fashion TV",Fashion TV
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="09 - فشن" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fashiontv.default.svg" group-title="09 - فشن" tvg-name="Fashion TV",Fashion TV
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="08 - فشن" tvg-name="World Fashion",World Fashion
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/worldfashion.default.png" group-title="09 - فشن" tvg-name="World Fashion",World Fashion
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fashionone.default.png" group-title="08 - فشن" tvg-name="Fashion One",Fashion One
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/fashionone.default.png" group-title="09 - فشن" tvg-name="Fashion One",Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternationalradio.default.png" group-title="09 - رادیو فارسی" tvg-name="Iran International Radio",رادیو ایران اینترنشنال
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="10 - رادیو فارسی" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/iraninternationalradio.default.png" group-title="10 - رادیو فارسی" tvg-name="Iran International Radio",رادیو ایران اینترنشنال
 https://radio.iraninternational.app/iintl_c
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofarda.default.svg" group-title="09 - رادیو فارسی" tvg-name="Radio Farda",رادیو فردا
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofarda.default.svg" group-title="10 - رادیو فارسی" tvg-name="Radio Farda",رادیو فردا
 https://stream.radiojar.com/cp13r2cpn3quv
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiohamrah.jpg" group-title="09 - رادیو فارسی" tvg-name="Radio Hamrah",رادیو همراه
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiohamrah.jpg" group-title="10 - رادیو فارسی" tvg-name="Radio Hamrah",رادیو همراه
 https://stream-148.zeno.fm/nezaycc28vzuv
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/kirn.jpg" group-title="09 - رادیو فارسی" tvg-name="KIRN 670",KIRN 670 لس‌آنجلس
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/kirn.jpg" group-title="10 - رادیو فارسی" tvg-name="KIRN 670",KIRN 670 لس‌آنجلس
 https://ice41.securenetsystems.net/KIRN
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/lprradio.jpg" group-title="09 - رادیو فارسی" tvg-name="London Persian Radio",رادیو لندن LPR
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/lprradio.jpg" group-title="10 - رادیو فارسی" tvg-name="London Persian Radio",رادیو لندن LPR
 https://free.rcast.net/247794
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radioyar.default.png" group-title="09 - رادیو فارسی" tvg-name="Radio Yar",رادیو یار
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radioyar.default.png" group-title="10 - رادیو فارسی" tvg-name="Radio Yar",رادیو یار
 https://shoutcast.glwiz.com/RadioYAR.mp3
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiosarcheshmeh.png" group-title="09 - رادیو فارسی" tvg-name="Radio Sarcheshmeh",رادیو سرچشمه
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiosarcheshmeh.png" group-title="10 - رادیو فارسی" tvg-name="Radio Sarcheshmeh",رادیو سرچشمه
 https://sarcheshmeh.awsvps.com/stream
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioshadi.png" group-title="09 - رادیو فارسی" tvg-name="Radio Shadi",رادیو شادی
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioshadi.png" group-title="10 - رادیو فارسی" tvg-name="Radio Shadi",رادیو شادی
 https://ice9.securenetsystems.net/SHADI
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioshoma.png" group-title="09 - رادیو فارسی" tvg-name="Radio Shoma",رادیو شما
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioshoma.png" group-title="10 - رادیو فارسی" tvg-name="Radio Shoma",رادیو شما
 https://stream.radiojar.com/rzcfw4cbsxquv
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiobamdad.jpg" group-title="09 - رادیو فارسی" tvg-name="Radio Bamdad",رادیو بامداد
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiobamdad.jpg" group-title="10 - رادیو فارسی" tvg-name="Radio Bamdad",رادیو بامداد
 https://s3.radio.co/sd07c718f1/listen
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radionovin.png" group-title="09 - رادیو فارسی" tvg-name="Radio Novin",رادیو نوین
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radionovin.png" group-title="10 - رادیو فارسی" tvg-name="Radio Novin",رادیو نوین
 https://radio.novin.live/live
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiomojdeh.default.png" group-title="09 - رادیو فارسی" tvg-name="Radio Mojdeh",رادیو مژده
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiomojdeh.default.png" group-title="10 - رادیو فارسی" tvg-name="Radio Mojdeh",رادیو مژده
 https://ic2326.c1261.fastserv.com/rm128
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioshemroon.jpg" group-title="09 - رادیو فارسی" tvg-name="Radio Shemroon",رادیو شمرون
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioshemroon.jpg" group-title="10 - رادیو فارسی" tvg-name="Radio Shemroon",رادیو شمرون
 https://s35.myradiostream.com/33640/listen.mp3
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/iraniancongress.jpg" group-title="09 - رادیو فارسی" tvg-name="Iranian Congress",کنگره ایرانیان
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/iraniancongress.jpg" group-title="10 - رادیو فارسی" tvg-name="Iranian Congress",کنگره ایرانیان
 https://stream.zenolive.com/kbt00r580feuv
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofranceinternationalpersia.default.png" group-title="09 - رادیو فارسی" tvg-name="RFI Farsi",RFI فرانسه فارسی
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/radiofranceinternationalpersia.default.png" group-title="10 - رادیو فارسی" tvg-name="RFI Farsi",RFI فرانسه فارسی
 https://rfipersan96k.ice.infomaniak.ch/rfipersan-96k.mp3
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiomahoor.png" group-title="09 - رادیو فارسی" tvg-name="Radio Mahoor",رادیو ماهور (شاعر)
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiomahoor.png" group-title="10 - رادیو فارسی" tvg-name="Radio Mahoor",رادیو ماهور (شاعر)
 https://shoutcast.glwiz.com/shaer.mp3
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg" group-title="09 - رادیو فارسی" tvg-name="PMC Select",PMC Select
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/pmc.default.svg" group-title="10 - رادیو فارسی" tvg-name="PMC Select",PMC Select
 https://s5.radio.co/sf0a1af54c/listen
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/persianvip.jpg" group-title="09 - رادیو فارسی" tvg-name="Persian VIP",Persian VIP
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/persianvip.jpg" group-title="10 - رادیو فارسی" tvg-name="Persian VIP",Persian VIP
 https://radio.persianvip.com:8888/
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioparsa.png" group-title="09 - رادیو فارسی" tvg-name="Radio Parsa",رادیو پارسا
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radioparsa.png" group-title="10 - رادیو فارسی" tvg-name="Radio Parsa",رادیو پارسا
 https://parsa.awsvps.com/stream
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/mihantv.jpg" group-title="09 - رادیو فارسی" tvg-name="Radio Mihan",رادیو میهن
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/mihantv.jpg" group-title="10 - رادیو فارسی" tvg-name="Radio Mihan",رادیو میهن
 https://radio.mihantv.com/mihan
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiomashruteh.jpg" group-title="09 - رادیو فارسی" tvg-name="Radio Mashruteh",رادیو مشروطه
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiomashruteh.jpg" group-title="10 - رادیو فارسی" tvg-name="Radio Mashruteh",رادیو مشروطه
 https://radio.cfcross.workers.dev/?url=http://mashruteh.awsvps.com:9458/stream
-#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiofaaz.jpg" group-title="09 - رادیو فارسی" tvg-name="Radio Faaz",رادیو فاز
+#EXTINF:-1  tvg-logo="https://www.parsatv.com/index_files/channels/radiofaaz.jpg" group-title="10 - رادیو فارسی" tvg-name="Radio Faaz",رادیو فاز
 https://radio.cfcross.workers.dev/?url=http://www.radiofaaz.com:8000/radiofaaz
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Al_Jazeera_English_channel_logo.svg/320px-Al_Jazeera_English_channel_logo.svg.png" group-title="Live" tvg-name="Al Jazeera Arabic",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -743,105 +757,109 @@ https://tvpass.org/live/sportsnet-pacific/sd
 https://tvpass.org/live/sportsnet-pittsburgh/sd
 #EXTINF:-1 catchup="default" catchup-days="2" catchup-source="${start}-${duration}" tvg-id="sportsnet-west"  tvg-logo="sportsnet-west" tvg-chno="1147" group-title="TVPass" tvg-name="Sportsnet West",Sportsnet West
 https://tvpass.org/live/sportsnet-west/sd
-#EXTINF:-1  group-title="10 - شبکه جم" tvg-id="EkranMovies.ir@SD" tvg-name="Ekran Movies",Ekran Movies
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="02 - شبکه جم" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="EkranMovies.ir@SD" tvg-name="Ekran Movies",Ekran Movies
 https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEM24B.tr@SD" tvg-name="GEM 24B",GEM 24B
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEM24B.tr@SD" tvg-name="GEM 24B",GEM 24B
 https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMBollywood.tr@SD" tvg-name="GEM Bollywood",GEM Bollywood
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMBollywood.tr@SD" tvg-name="GEM Bollywood",GEM Bollywood
 https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMClassic.tr@SD" tvg-name="GEM Classic",GEM Classic
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMClassic.tr@SD" tvg-name="GEM Classic",GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMComedy.tr@SD" tvg-name="GEM Comedy",GEM Comedy
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMComedy.tr@SD" tvg-name="GEM Comedy",GEM Comedy
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMDrama.tr@SD" tvg-name="GEM Drama",GEM Drama
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMDrama.tr@SD" tvg-name="GEM Drama",GEM Drama
 https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMDramaPlus.tr@SD" tvg-name="GEM Drama Plus",GEM Drama Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMDramaPlus.tr@SD" tvg-name="GEM Drama Plus",GEM Drama Plus
 https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMEntertainment.tr@SD" tvg-name="GEM Entertainment",GEM Entertainment
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMEntertainment.tr@SD" tvg-name="GEM Entertainment",GEM Entertainment
 https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMFilm.tr@SD" tvg-name="GEM Film",GEM Film
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMFilm.tr@SD" tvg-name="GEM Film",GEM Film
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMFit.tr@SD" tvg-name="GEM Fit",GEM Fit
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMFit.tr@SD" tvg-name="GEM Fit",GEM Fit
 https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMFood.tr@SD" tvg-name="GEM Food",GEM Food
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMFood.tr@SD" tvg-name="GEM Food",GEM Food
 https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMJunior.tr@SD" tvg-name="GEM Junior",GEM Junior
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMJunior.tr@SD" tvg-name="GEM Junior",GEM Junior
 https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMKids.tr@SD" tvg-name="GEM Kids",GEM Kids
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMKids.tr@SD" tvg-name="GEM Kids",GEM Kids
 https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMLife.tr@SD" tvg-name="GEM Life",GEM Life
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMLife.tr@SD" tvg-name="GEM Life",GEM Life
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMMifa.tr@SD" tvg-name="GEM Mifa",GEM Mifa
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMMifa.tr@SD" tvg-name="GEM Mifa",GEM Mifa
 https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMMifaPlus.tr@SD" tvg-name="GEM Mifa Plus",GEM Mifa Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMMifaPlus.tr@SD" tvg-name="GEM Mifa Plus",GEM Mifa Plus
 https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMNature.tr@SD" tvg-name="GEM Nature",GEM Nature
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMNature.tr@SD" tvg-name="GEM Nature",GEM Nature
 https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMOnyx.tr@SD" tvg-name="GEM Onyx",GEM Onyx
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMOnyx.tr@SD" tvg-name="GEM Onyx",GEM Onyx
 https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMPixel.tr@SD" tvg-name="GEM Pixel",GEM Pixel
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMPixel.tr@SD" tvg-name="GEM Pixel",GEM Pixel
 https://ca-rt.onetv.app/gempixel/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMRiver.tr@SD" tvg-name="GEM River",GEM River
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMRiver.tr@SD" tvg-name="GEM River",GEM River
 https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMRiverPlus.tr@SD" tvg-name="GEM River Plus",GEM River Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMRiverPlus.tr@SD" tvg-name="GEM River Plus",GEM River Plus
 https://ca-rt.onetv.app/gemriverplus/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMRubix.tr@SD" tvg-name="GEM Rubix",GEM Rubix
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMRubix.tr@SD" tvg-name="GEM Rubix",GEM Rubix
 https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMRubixPlus.tr@SD" tvg-name="GEM Rubix Plus",GEM Rubix Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMRubixPlus.tr@SD" tvg-name="GEM Rubix Plus",GEM Rubix Plus
 https://ca-rt.onetv.app/gemrubixplus/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMSeries.tr@SD" tvg-name="GEM Series",GEM Series
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMSeries.tr@SD" tvg-name="GEM Series",GEM Series
 https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMSeriesPlus.tr@SD" tvg-name="GEM Series Plus",GEM Series Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMSeriesPlus.tr@SD" tvg-name="GEM Series Plus",GEM Series Plus
 https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMTV.tr@SD" tvg-name="GEM TV",GEM TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMTV.tr@SD" tvg-name="GEM TV",GEM TV
 https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="10 - شبکه جم" tvg-id="GEMTVPlus.tr@SD" tvg-name="GEM TV Plus",GEM TV Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="GEMTVPlus.tr@SD" tvg-name="GEM TV Plus",GEM TV Plus
 https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/manoto.default.svg" group-title="10 - شبکه جم" tvg-id="Manoto.uk@SD" tvg-name="Manoto TV",Manoto TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/manoto.default.svg" group-title="02 - شبکه جم" tvg-id="Manoto.uk@SD" tvg-name="Manoto TV",Manoto TV
 https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
-#EXTINF:-1  group-title="10 - شبکه جم" tvg-id="T2Movies.ir@SD" tvg-name="T2 Movies",T2 Movies
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/gemtv.default.png" group-title="02 - شبکه جم" tvg-id="T2Movies.ir@SD" tvg-name="T2 Movies",T2 Movies
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/afghanistan.default.png" group-title="11 - پرشیانا" tvg-id="4Afghanistan.fr@SD" tvg-name="4 Afghanistan",4 Afghanistan
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="03 - پرشیانا" tvg-name="English Club TV",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/afghanistan.default.png" group-title="03 - پرشیانا" tvg-id="4Afghanistan.fr@SD" tvg-name="4 Afghanistan",4 Afghanistan
 https://4afghls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/4kurdhd.default.png" group-title="11 - پرشیانا" tvg-id="4Kurd.fr@SD" tvg-name="4 Kurd",4 Kurd
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/4kurdhd.default.png" group-title="03 - پرشیانا" tvg-id="4Kurd.fr@SD" tvg-name="4 Kurd",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/kanalyek.default.png" group-title="11 - پرشیانا" tvg-id="ChannelOne.us@SD" tvg-name="Channel One",Channel One
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/kanalyek.default.png" group-title="03 - پرشیانا" tvg-id="ChannelOne.us@SD" tvg-name="Channel One",Channel One
 https://pemirateshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianacinema.default.png" group-title="11 - پرشیانا" tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema",Persiana Cinema
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianacinema.default.png" group-title="03 - پرشیانا" tvg-id="PersianaCinema.fr@SD" tvg-name="Persiana Cinema",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianacomedy.default.png" group-title="11 - پرشیانا" tvg-id="PersianaComedy.fr@SD" tvg-name="Persiana Comedy",Persiana Comedy
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianacomedy.default.png" group-title="03 - پرشیانا" tvg-id="PersianaComedy.fr@SD" tvg-name="Persiana Comedy",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianadocumentary.default.png" group-title="11 - پرشیانا" tvg-id="PersianaDocs.fr@HD" tvg-name="Persiana Docs",Persiana Docs
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianadocumentary.default.png" group-title="03 - پرشیانا" tvg-id="PersianaDocs.fr@HD" tvg-name="Persiana Docs",Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianafamily.default.png" group-title="11 - پرشیانا" tvg-id="PersianaFamily.fr@SD" tvg-name="Persiana Family",Persiana Family
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianafamily.default.png" group-title="03 - پرشیانا" tvg-id="PersianaFamily.fr@SD" tvg-name="Persiana Family",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianaaction.default.png" group-title="11 - پرشیانا" tvg-id="PersianaFight.fr@HD" tvg-name="Persiana Fight",Persiana Fight
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianaaction.default.png" group-title="03 - پرشیانا" tvg-id="PersianaFight.fr@HD" tvg-name="Persiana Fight",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianasonnati.default.png" group-title="11 - پرشیانا" tvg-id="PersianaFolk.fr@HD" tvg-name="Persiana Folk",Persiana Folk
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianasonnati.default.png" group-title="03 - پرشیانا" tvg-id="PersianaFolk.fr@HD" tvg-name="Persiana Folk",Persiana Folk
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianairanian.default.png" group-title="11 - پرشیانا" tvg-id="PersianaIranian.fr@SD" tvg-name="Persiana Iranian",Persiana Iranian
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianairanian.default.png" group-title="03 - پرشیانا" tvg-id="PersianaIranian.fr@SD" tvg-name="Persiana Iranian",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianajunior.default.png" group-title="11 - پرشیانا" tvg-id="PersianaJunior.fr@SD" tvg-name="Persiana Junior",Persiana Junior
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianajunior.default.png" group-title="03 - پرشیانا" tvg-id="PersianaJunior.fr@SD" tvg-name="Persiana Junior",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianakorea.default.png" group-title="11 - پرشیانا" tvg-id="PersianaKorea.fr@SD" tvg-name="Persiana Korea",Persiana Korea
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianakorea.default.png" group-title="03 - پرشیانا" tvg-id="PersianaKorea.fr@SD" tvg-name="Persiana Korea",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="11 - پرشیانا" tvg-id="PersianaLatino.fr@SD" tvg-name="Persiana Latino",Persiana Latino
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="03 - پرشیانا" tvg-id="PersianaLatino.fr@SD" tvg-name="Persiana Latino",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianamedical.default.png" group-title="11 - پرشیانا" tvg-id="PersianaMedical.fr@SD" tvg-name="Persiana Medical",Persiana Medical
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianamedical.default.png" group-title="03 - پرشیانا" tvg-id="PersianaMedical.fr@SD" tvg-name="Persiana Medical",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianamusic.default.png" group-title="11 - پرشیانا" tvg-id="4Music.fr@SD" tvg-name="Persiana Music",Persiana Music
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianamusic.default.png" group-title="03 - پرشیانا" tvg-id="4Music.fr@SD" tvg-name="Persiana Music",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persiananostalgia.default.png" group-title="11 - پرشیانا" tvg-id="PersianaNostalgia.fr@SD" tvg-name="Persiana Nostalgia",Persiana Nostalgia
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persiananostalgia.default.png" group-title="03 - پرشیانا" tvg-id="PersianaNostalgia.fr@SD" tvg-name="Persiana Nostalgia",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianaplus.default.svg" group-title="11 - پرشیانا" tvg-id="PersianaPlus.fr@SD" tvg-name="Persiana Plus",Persiana Plus
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianaplus.default.svg" group-title="03 - پرشیانا" tvg-id="PersianaPlus.fr@SD" tvg-name="Persiana Plus",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="11 - پرشیانا" tvg-id="PersianaReality.fr@HD" tvg-name="Persiana Reality",Persiana Reality
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="03 - پرشیانا" tvg-id="PersianaReality.fr@HD" tvg-name="Persiana Reality",Persiana Reality
 https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="11 - پرشیانا" tvg-id="PersianaSeries.fr@HD" tvg-name="Persiana Series",Persiana Series
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="03 - پرشیانا" tvg-id="PersianaSeries.fr@HD" tvg-name="Persiana Series",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="11 - پرشیانا" tvg-id="PersianaTeen.fr@SD" tvg-name="Persiana Teen",Persiana Teen
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="03 - پرشیانا" tvg-id="PersianaTeen.fr@SD" tvg-name="Persiana Teen",Persiana Teen
 https://kphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="11 - پرشیانا" tvg-id="PersianaTurkiye.fr@SD" tvg-name="Persiana Turkiye",Persiana Turkiye
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/persianabillboard.default.png" group-title="03 - پرشیانا" tvg-id="PersianaTurkiye.fr@SD" tvg-name="Persiana Turkiye",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1  group-title="Samsung TV Plus (US)",4UV (1080p)
 https://d3qg1liq0unuxm.cloudfront.net/4UV.m3u8
@@ -1677,7 +1695,7 @@ https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
 #EXTINF:-1  group-title="Antik TV (SK)" tvg-id="CT24.cz@SD",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-id="EnglishClubTV.uk@SD",English Club TV
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/picons/picons/master/build-source/logos/englishclubtv.default.png" group-title="01 - اخبار فارسی برتر" tvg-id="EnglishClubTV.uk@SD",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 #EXTINF:-1  group-title="Antik TV (SK)" tvg-id="EspresoTV.ua@SD",Espreso TV
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
